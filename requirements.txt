@@ -1,0 +1,8 @@
+numpy
+pandas
+nltk
+rouge-score
+bert-score
+datasets
+transformers
+torch
