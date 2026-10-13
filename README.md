@@ -65,3 +65,6 @@ DEFAULT_IMPACTS = [1, 1, 1, 1, 1, -1]      # +1 = higher is better, -1 = lower i
 
 Adjust weights to prioritize, e.g., semantic quality (BERTScore) over raw
 n-gram overlap (BLEU) for your use case.
+
+
+Link For Kaggle notebook: https://www.kaggle.com/code/shauryachichra5/text-summarization-model-comparison-using-topsis
